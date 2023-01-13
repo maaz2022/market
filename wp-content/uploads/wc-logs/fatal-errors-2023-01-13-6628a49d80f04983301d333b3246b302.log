@@ -1,0 +1,17 @@
+2023-01-13T07:05:07+00:00 CRITICAL Uncaught TypeError: voku\helper\HtmlDomParser::loadHtml(): Argument #1 ($html) must be of type string, bool given, called in C:\xampp\htdocs\market\wp-content\plugins\simply-static\vendor\voku\simple_html_dom\src\voku\helper\HtmlDomParser.php on line 228 and defined in C:\xampp\htdocs\market\wp-content\plugins\simply-static\vendor\voku\simple_html_dom\src\voku\helper\HtmlDomParser.php:865
+Stack trace:
+#0 C:\xampp\htdocs\market\wp-content\plugins\simply-static\vendor\voku\simple_html_dom\src\voku\helper\HtmlDomParser.php(228): voku\helper\HtmlDomParser->loadHtml(false, NULL)
+#1 C:\xampp\htdocs\market\wp-content\plugins\simply-static\src\class-ss-url-extractor.php(321): voku\helper\HtmlDomParser::__callStatic('str_get_html', Array)
+#2 C:\xampp\htdocs\market\wp-content\plugins\simply-static\src\class-ss-url-extractor.php(169): Simply_Static\Url_Extractor->extract_and_replace_urls_in_html()
+#3 C:\xampp\htdocs\market\wp-content\plugins\simply-static\src\tasks\class-ss-fetch-urls-task.php(131): Simply_Static\Url_Extractor->extract_and_update_urls()
+#4 C:\xampp\htdocs\market\wp-content\plugins\simply-static\src\tasks\class-ss-fetch-urls-task.php(99): Simply_Static\Fetch_Urls_Task->handle_200_response(Object(Simply_Static\Page), true, true)
+#5 C:\xampp\htdocs\market\wp-content\plugins\simply-static\src\class-ss-archive-creation-job.php(122): Simply_Static\Fetch_Urls_Task->perform()
+#6 C:\xampp\htdocs\market\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(301): Simply_Static\Archive_Creation_Job->task('fetch_urls')
+#7 C:\xampp\htdocs\market\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(175): WP_Background_Process->handle()
+#8 C:\xampp\htdocs\market\wp-includes\class-wp-hook.php(308): WP_Background_Process->maybe_handle('')
+#9 C:\xampp\htdocs\market\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#10 C:\xampp\htdocs\market\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#11 C:\xampp\htdocs\market\wp-admin\admin-ajax.php(203): do_action('wp_ajax_nopriv_...')
+#12 {main}
+  thrown in C:\xampp\htdocs\market\wp-content\plugins\simply-static\vendor\voku\simple_html_dom\src\voku\helper\HtmlDomParser.php on line 865
+

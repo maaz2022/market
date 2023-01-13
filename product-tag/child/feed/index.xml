@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>child &#8211; market</title>
+	<atom:link href="/https://maaz2022.github.io/market/product-tag/child/feed/?simply_static_page=6999" rel="self" type="application/rss+xml" />
+	<link>/https://maaz2022.github.io/market</link>
+	<description>online store</description>
+	<lastBuildDate>Thu, 12 Jan 2023 16:27:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>/https://maaz2022.github.io/market/wp-content/uploads/2023/01/Untitled_design__1_-removebg-preview.png</url>
+	<title>child &#8211; market</title>
+	<link>/https://maaz2022.github.io/market</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>BOYS HOODED GENUINE SHEEP LEATHER JACKET &#8211; BROWN</title>
+		<link>/https://maaz2022.github.io/market/product/boys-hooded-genuine-sheep-leather-jacket-brown/</link>
+					<comments>/https://maaz2022.github.io/market/product/boys-hooded-genuine-sheep-leather-jacket-brown/#respond</comments>
+		
+		<dc:creator><![CDATA[market]]></dc:creator>
+		<pubDate>Thu, 12 Jan 2023 16:08:00 +0000</pubDate>
+				<guid isPermaLink="false">/https://maaz2022.github.io/market/?post_type=product&#038;p=201</guid>
+
+					<description><![CDATA[PRODUCT DETAIL:
+Type: Jacket 
+Occasion: Casual 
+Regular Fit
+Material: Sheep Leather
+Machine Washable]]></description>
+										<content:encoded><![CDATA[<p>PRODUCT DETAIL:<br />
+Type: Jacket<br />
+Occasion: Casual<br />
+Regular Fit<br />
+Material: Sheep Leather<br />
+Machine Washable</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/https://maaz2022.github.io/market/product/boys-hooded-genuine-sheep-leather-jacket-brown/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

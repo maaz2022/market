@@ -1,0 +1,239 @@
+# Copyright (C) 2021 Payment Gateway - 2Checkout for WooCommerce
+# This file is distributed under the same license as the Payment Gateway - 2Checkout for WooCommerce package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Payment Gateway - 2Checkout for WooCommerce\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Emran Ahmed\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../includes/class-woo-2checkout-gateway.php:23
+msgid "2Checkout Payment Gateway"
+msgstr ""
+
+#: ../includes/class-woo-2checkout-gateway.php:24
+msgid "2Checkout accept mobile and online payments from customers worldwide."
+msgstr ""
+
+#: ../includes/class-woo-2checkout-gateway.php:33, ../includes/class-woo-2checkout-gateway.php:121
+msgid "2Checkout"
+msgstr ""
+
+#: ../includes/class-woo-2checkout-gateway.php:34, ../includes/class-woo-2checkout-gateway.php:129
+msgid "Pay via 2Checkout. Accept Credit Cards, PayPal and Debit Cards"
+msgstr ""
+
+#: ../includes/class-woo-2checkout-gateway.php:35, ../includes/class-woo-2checkout-gateway.php:136
+msgid "Proceed to 2Checkout"
+msgstr ""
+
+#: ../includes/class-woo-2checkout-gateway.php:111
+msgid "Enable/Disable"
+msgstr ""
+
+#: ../includes/class-woo-2checkout-gateway.php:113
+msgid "Enable 2Checkout Payment Gateway"
+msgstr ""
+
+#: ../includes/class-woo-2checkout-gateway.php:118
+msgid "Title"
+msgstr ""
+
+#: ../includes/class-woo-2checkout-gateway.php:120
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: ../includes/class-woo-2checkout-gateway.php:126
+msgid "Description"
+msgstr ""
+
+#: ../includes/class-woo-2checkout-gateway.php:128
+msgid "This controls the description which the user sees during checkout."
+msgstr ""
+
+#: ../includes/class-woo-2checkout-gateway.php:133
+msgid "Order button text"
+msgstr ""
+
+#: ../includes/class-woo-2checkout-gateway.php:135
+msgid "Checkout order button text."
+msgstr ""
+
+#: ../includes/class-woo-2checkout-gateway.php:141
+msgid "Read How to Setup"
+msgstr ""
+
+#: ../includes/class-woo-2checkout-gateway.php:148
+msgid "Merchant Code"
+msgstr ""
+
+#: ../includes/class-woo-2checkout-gateway.php:152
+msgid "Please enter 2Checkout <strong>Merchant Code</strong> from <a target=\"_blank\" href=\"%s\">Integrations > Webhooks &amp; API > API Section</a>."
+msgstr ""
+
+#: ../includes/class-woo-2checkout-gateway.php:156
+msgid "Secret Key"
+msgstr ""
+
+#: ../includes/class-woo-2checkout-gateway.php:158
+msgid "Please enter 2Checkout <strong>Secret Key</strong> from <a target=\"_blank\" href=\"%s\">Integrations > Webhooks &amp; API > API Section</a>"
+msgstr ""
+
+#: ../includes/class-woo-2checkout-gateway.php:164
+msgid "Buy Link Secret Word"
+msgstr ""
+
+#: ../includes/class-woo-2checkout-gateway.php:166
+msgid "Please enter 2Checkout <strong>Buy link secret word</strong> from <a target=\"_blank\" href=\"%s\">Integrations > Webhooks &amp; API > Secret word</a> section"
+msgstr ""
+
+#: ../includes/class-woo-2checkout-gateway.php:172
+msgid "Demo Mode"
+msgstr ""
+
+#: ../includes/class-woo-2checkout-gateway.php:174
+msgid "Enable Demo Mode"
+msgstr ""
+
+#: ../includes/class-woo-2checkout-gateway.php:176
+msgid "This mode allows you to test your setup to make sure everything works as expected without take real payment."
+msgstr ""
+
+#: ../includes/class-woo-2checkout-gateway.php:180
+msgid "Debug Log"
+msgstr ""
+
+#: ../includes/class-woo-2checkout-gateway.php:182
+msgid "Enable Logging"
+msgstr ""
+
+#: ../includes/class-woo-2checkout-gateway.php:184
+msgid "Log 2Checkout events, <strong>DON'T ALWAYS ENABLE THIS.</strong> You can check this log in %s."
+msgstr ""
+
+#: ../includes/class-woo-2checkout-gateway.php:184
+msgid "System Status &gt; Logs"
+msgstr ""
+
+#: ../includes/class-woo-2checkout-gateway.php:189
+msgid "Gateway Icon Style"
+msgstr ""
+
+#: ../includes/class-woo-2checkout-gateway.php:192
+msgid "Choose Gateway a Icon Style"
+msgstr ""
+
+#: ../includes/class-woo-2checkout-gateway.php:194
+msgid "Dark"
+msgstr ""
+
+#: ../includes/class-woo-2checkout-gateway.php:195
+msgid "Light"
+msgstr ""
+
+#: ../includes/class-woo-2checkout-gateway.php:201
+msgid "Gateway Icon Width"
+msgstr ""
+
+#: ../includes/class-woo-2checkout-gateway.php:203
+msgid "Gateway Icon Width in %. Limit: 1-100"
+msgstr ""
+
+#: ../includes/class-woo-2checkout-gateway.php:219
+msgid "Standard Checkout ( Process on 2Checkout site )"
+msgstr ""
+
+#: ../includes/class-woo-2checkout-gateway.php:220
+msgid "Popup After Checkout - Inline Checkout - PRO FEATURE"
+msgstr ""
+
+#: ../includes/class-woo-2checkout-gateway.php:221
+msgid "Popup During Checkout - Inline Checkout - PRO FEATURE"
+msgstr ""
+
+#: ../includes/class-woo-2checkout-gateway.php:222
+msgid "On Page Credit Card Only - PRO FEATURE"
+msgstr ""
+
+#: ../includes/class-woo-2checkout-gateway.php:273
+msgid "<strong>Webhook endpoint: </strong> <code style=\"background-color:#ddd;\">%s</code> to your <a href=\"https://secure.2checkout.com/cpanel/ipn_settings.php\" target=\"_blank\">2Checkout IPN settings</a>"
+msgstr ""
+
+#: ../includes/class-woo-2checkout-gateway.php:516
+msgid "Item"
+msgstr ""
+
+#: ../includes/class-woo-2checkout-gateway.php:682
+msgid "Shipping via %s"
+msgstr ""
+
+#: ../includes/class-woo-2checkout-gateway.php:884, ../includes/class-woo-2checkout-gateway.php:888
+msgid "Payment Gateway - 2Checkout for WooCommerce disabled"
+msgstr ""
+
+#: ../includes/class-woo-2checkout-gateway.php:884
+msgid "You must fill the \"Merchant Code\" and the \"Secret Key\" and \"Buy Link Secret Word\" fields."
+msgstr ""
+
+#: ../includes/class-woo-2checkout-gateway.php:888
+msgid "2Checkout does not support your store currency."
+msgstr ""
+
+#: ../includes/class-woo-2checkout-gateway.php:896
+msgid "<strong>DEMO MODE ENABLED.</strong> Use a %s"
+msgstr ""
+
+#: ../includes/functions.php:8
+msgid "Payment Gateway - 2Checkout for WooCommerce - Pro "
+msgstr ""
+
+#: ../includes/functions.php:10
+msgid "Upgrade to %s to get WooCommerce Subscriptions payments, issue refunds from backend, inline popup checkout and more."
+msgstr ""
+
+#: ../woo-2checkout.php:134
+msgid "Settings"
+msgstr ""
+
+#: ../woo-2checkout.php:150
+msgid "Currently, you are using older version of WooCommerce. It's recommended to use latest version of WooCommerce to work with %s."
+msgstr ""
+
+#: ../woo-2checkout.php:150
+msgid "WooCommerce 2Checkout Payment Gateway"
+msgstr ""
+
+#: ../woo-2checkout.php:158
+msgid "Please check PHP version requirement."
+msgstr ""
+
+#: ../woo-2checkout.php:160
+msgid "It's required to use latest version of PHP to use <strong>Payment Gateway - 2Checkout for WooCommerce</strong>."
+msgstr ""
+
+#: ../woo-2checkout.php:172
+msgid "WooCommerce"
+msgstr ""
+
+#: ../woo-2checkout.php:180
+msgid "<strong>Payment Gateway - 2Checkout for WooCommerce</strong> is a payment gateway plugin of "
+msgstr ""
+
+#: ../woo-2checkout.php:241
+msgid "Read Documentation"
+msgstr ""
+
+#: ../woo-2checkout.php:242
+msgid "Facing issue?"
+msgstr ""
+
+#: ../woo-2checkout.php:242
+msgid "Please open a ticket."
+msgstr ""
